@@ -7,7 +7,7 @@
   In our first year, we really had a hard time finding examples of how we can program the robot. And in order to help new teams, we decided to share!
   You can navigate through the folders to find something that might catch your interest. We hope it proves helpful to your team!</p>
 
-  <p><b>─ Industry Robotic, 8800 ─</p>
+  <p><b>─ Industry Robotics, 8800 ─</p>
 </div>
 
 
